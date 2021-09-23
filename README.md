@@ -1,6 +1,6 @@
 # Sorting algorithm visualizer
-# Built with React.js
-# https://lucasbelin.github.io/sorting-visualizer/
+Built with React.js
+https://lucasbelin.github.io/sorting-visualizer/
 
 There are a lot of different sorting algorithms out there and wanted to visualize them, which is why I built this application.
 
