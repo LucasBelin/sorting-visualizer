@@ -2,7 +2,7 @@
 Built with React.js
 https://lucasbelin.github.io/sorting-visualizer/
 
-There are a lot of different sorting algorithms out there and wanted to visualize them, which is why I built this application.
+There are a lot of different sorting algorithms out there and I wanted to visualize them, which is why I built this application.
 
 # How it works
 By default, the numbers of values to sort is 50 but you can change it with the slider next to the "Generate new array" button.
